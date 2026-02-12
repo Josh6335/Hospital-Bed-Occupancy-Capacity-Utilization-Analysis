@@ -8,7 +8,7 @@
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 
-[📊 View Dashboard](#-dashboard-preview) • [📈 Explore Insights](#-key-findings) • [📧 Contact Me](mailto:musedikutemitope@gmail.com)
+[📊 View Report](https://github.com/josh6335/Hospital-Bed-Occupancy-Capacity-Utilization-Analysis/raw/main/report.pptx) • [📈 Explore Data](https://github.com/josh6335/Hospital-Bed-Occupancy-Capacity-Utilization-Analysis/raw/main/dataset) • [📧 Contact Me](mailto:musedikutemitope@gmail.com)
 
 </div>
 
