@@ -189,21 +189,21 @@ Hospital-Bed-Occupancy-Analysis/
   <tr>
     <td align="center">
       <h3>📊 Cover Page</h3>
-      <img src="assets/page1.png" alt="Cover Page" width="400"/>
+      <img src="assets/Page1.png" alt="Cover Page" width="400"/>
     </td>
     <td align="center">
       <h3>📈 Overview Dashboard</h3>
-      <img src="assets/page2.png" alt="Overview Dashboard" width="400"/>
+      <img src="assets/Page2.png" alt="Overview Dashboard" width="400"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>🏥 ICU vs Non-ICU Comparison</h3>
-      <img src="assets/page3.png" alt="ICU Comparison" width="400"/>
+      <img src="assets/Page3.png" alt="ICU Comparison" width="400"/>
     </td>
     <td align="center">
       <h3>🔍 Service-Level Analysis</h3>
-      <img src="assets/page4.png" alt="Service Analysis" width="400"/>
+      <img src="assets/Page4.png" alt="Service Analysis" width="400"/>
     </td>
   </tr>
 </table>
